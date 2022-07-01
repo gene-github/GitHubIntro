@@ -1,7 +1,8 @@
 Shopping List:
 
-Apple
-Oranges
-Bananas
-Cherries
-Carrots
+1) Apple
+2) Oranges
+3) Bananas
+4) Cherries
+5) Carrots
+6) Cerial
