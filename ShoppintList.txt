@@ -3,7 +3,8 @@ Shopping List:
 1) Apple
 2) Oranges
 3) Bananas
-4) Cherries
+4) Potatos
 5) Carrots
 6) Cerial
-7) Rice
+7) Water
+8) Rice
