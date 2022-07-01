@@ -7,3 +7,4 @@ Shopping List:
 5) Carrots
 6) Cerial
 7) Water
+8) Rice
