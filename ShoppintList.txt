@@ -6,3 +6,4 @@ Shopping List:
 4) Cherries
 5) Carrots
 6) Cerial
+7) Rice
